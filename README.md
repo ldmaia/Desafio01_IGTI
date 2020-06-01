@@ -12,3 +12,6 @@ IGTIs erste Bootcamp-Herausforderung.
 - Verbrauchen Sie eine API mit Informationen von Personen
 - Suche nach Personen mit Namen
 - Zeigen Sie die Statistiken der Personen an (z. B. Alter).
+
+
+<img src="./Capturar.JPG">
